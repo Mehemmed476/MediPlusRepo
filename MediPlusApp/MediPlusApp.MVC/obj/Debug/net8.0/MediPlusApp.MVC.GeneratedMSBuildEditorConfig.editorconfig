@@ -30,6 +30,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Schedule/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2NoZWR1bGUvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Schedule/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2NoZWR1bGUvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Schedule/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2NoZWR1bGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Schedule/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2NoZWR1bGUvVHJhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Schedule/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2NoZWR1bGUvVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

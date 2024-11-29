@@ -14,4 +14,5 @@ public class MediPlusDbContext : DbContext
     
     
     public DbSet<SliderItem> SliderItems { get; set; }
+    public DbSet<Schedule> Schedules { get; set; }
 }
