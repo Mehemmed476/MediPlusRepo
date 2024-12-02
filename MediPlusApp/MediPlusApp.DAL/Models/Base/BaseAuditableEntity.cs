@@ -6,4 +6,5 @@ public class BaseAuditableEntity : BaseEntity
     public DateTime? ModifiedDate { get; set; }
     public bool IsDeleted { get; set; } = false;
     public DateTime? DeletedDate { get; set; }
+    public bool IsActive { get; set; } = true;
 }

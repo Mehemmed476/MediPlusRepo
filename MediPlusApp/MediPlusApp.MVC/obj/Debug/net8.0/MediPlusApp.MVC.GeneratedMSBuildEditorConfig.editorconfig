@@ -26,8 +26,68 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Appointment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXBwb2ludG1lbnQvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Appointment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXBwb2ludG1lbnQvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Appointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXBwb2ludG1lbnQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Appointment/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXBwb2ludG1lbnQvVHJhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Appointment/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXBwb2ludG1lbnQvVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Doctor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdG9yL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Doctor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdG9yL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdG9yL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Doctor/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdG9yL1RyYXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Doctor/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdG9yL1VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Patient/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF0aWVudC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Patient/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF0aWVudC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Patient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF0aWVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Patient/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF0aWVudC9UcmFzaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Patient/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF0aWVudC9VcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/Areas/Admin/Views/Schedule/Create.cshtml]

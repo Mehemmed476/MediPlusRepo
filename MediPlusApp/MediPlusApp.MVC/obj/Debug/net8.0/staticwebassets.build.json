@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FPXMrVs3jGXasqFgEvgatslQSilTOA6/MbgHIaQs8mQ=",
+  "Hash": "PfL5s0AglZpZjMHl5JnEaQjqcce7fBgk37zhaUDtesw=",
   "Source": "MediPlusApp.MVC",
   "BasePath": "_content/MediPlusApp.MVC",
   "Mode": "Default",
@@ -36801,25 +36801,6 @@
       "OriginalItemSpec": "wwwroot/upload/sliderItems/51a3beb4-d846-4b07-9fd1-27039c817434.jpeg"
     },
     {
-      "Identity": "/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/wwwroot/upload/sliderItems/659d1125-c65d-46a9-bc4a-10330b80f872.jpeg",
-      "SourceId": "MediPlusApp.MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/wwwroot/",
-      "BasePath": "_content/MediPlusApp.MVC",
-      "RelativePath": "upload/sliderItems/659d1125-c65d-46a9-bc4a-10330b80f872.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/upload/sliderItems/659d1125-c65d-46a9-bc4a-10330b80f872.jpeg"
-    },
-    {
       "Identity": "/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/wwwroot/upload/sliderItems/7f995e16-fac3-4bc5-afbc-a88a2fcbd73c.jpeg",
       "SourceId": "MediPlusApp.MVC",
       "SourceType": "Discovered",
@@ -36837,6 +36818,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/upload/sliderItems/7f995e16-fac3-4bc5-afbc-a88a2fcbd73c.jpeg"
+    },
+    {
+      "Identity": "/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/wwwroot/upload/sliderItems/b02a9325-ea6e-425b-a9f5-2ea6bbe49ff3.jpeg",
+      "SourceId": "MediPlusApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/wwwroot/",
+      "BasePath": "_content/MediPlusApp.MVC",
+      "RelativePath": "upload/sliderItems/b02a9325-ea6e-425b-a9f5-2ea6bbe49ff3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/upload/sliderItems/b02a9325-ea6e-425b-a9f5-2ea6bbe49ff3.jpeg"
     },
     {
       "Identity": "/Users/mehemmedxelilzade/RiderProjects/MediPlusApp/MediPlusApp.MVC/wwwroot/upload/sliderItems/ed515751-a9d1-431a-9666-ea954c99e46b.jpeg",
